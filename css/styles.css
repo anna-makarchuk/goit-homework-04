@@ -331,13 +331,14 @@ img {
 .icon-logo:focus {
   fill: currentColor;
 }
+
 .icon-logo {
   fill: currentColor;
 }
 
 .customers-item:hover,
 .customers-item:focus {
-  border: 1px solid var(--ocean);
+  border-color: var(--ocean);
 }
 
 /* footer */
